@@ -1,8 +1,8 @@
-# Margin Analysis Dashboard — FMCG Wholesale
+# Margin Analysis Dashboard - FMCG Wholesale
 
 **Is reported margin improvement real, or is sales mix masking a pricing problem?**
 
-Gross margin rose from 37.1% to 39.5% across FY2024–FY2026. This analysis tests
+Gross margin rose from 37.1% to 39.5% across FY2024 to FY2026. This analysis tests
 whether that reflects genuine improvement, and finds it does not.
 
 ![Product Profitability](screenshots/01-product-profitability.jpg)
